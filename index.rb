@@ -66,6 +66,9 @@ obj.private_method
 # Output: NoMethodError (private method `private_method' called)
 
 
+
+
+
 #protected methods
 class MyClass
   def public_method
